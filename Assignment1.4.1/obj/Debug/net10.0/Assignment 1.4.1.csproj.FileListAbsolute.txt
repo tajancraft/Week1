@@ -1,0 +1,4 @@
+C:\Users\YK\source\repos\Assignment 1.4.1\obj\Debug\net10.0\Assignment 1.4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YK\source\repos\Assignment 1.4.1\obj\Debug\net10.0\Assignment 1.4.1.AssemblyInfoInputs.cache
+C:\Users\YK\source\repos\Assignment 1.4.1\obj\Debug\net10.0\Assignment 1.4.1.AssemblyInfo.cs
+C:\Users\YK\source\repos\Assignment 1.4.1\obj\Debug\net10.0\Assignment 1.4.1.csproj.CoreCompileInputs.cache
