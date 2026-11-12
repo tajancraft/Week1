@@ -31,6 +31,7 @@ for (int i = 0; i < myNumberArray.Length; i++)
     Console.Write(myNumberArray[i] + " ");
 }
 
+
 Console.WriteLine();
 Console.WriteLine("The values stored into the array in reverse are:");
 for (int i = myNumberArray.Length - 1; i >= 0; i--)
@@ -38,7 +39,7 @@ for (int i = myNumberArray.Length - 1; i >= 0; i--)
     Console.Write(myNumberArray[i] + " ");
 }
 
-/*
+
 Array.Reverse(myNumberArray);
 Console.WriteLine();
 Console.WriteLine("The values stored into the array in reverse are:");
@@ -47,4 +48,3 @@ for (int i = 0; i < myNumberArray.Length; i++)
     Console.Write(myNumberArray[i] + " ");
 }
 Console.WriteLine();
-*/
